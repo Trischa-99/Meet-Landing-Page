@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL]()
-- [Live Site URL]()
+- [Solution URL](https://github.com/Trischa-99/Meet-Landing-Page.git)
+- [Live Site URL](https://trischa-99.github.io/Meet-Landing-Page/)
 
 ## My process
 
